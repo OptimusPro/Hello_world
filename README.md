@@ -1,2 +1,4 @@
 # Hello_world
-My first repository in github for a Python porject
+
+Hi.
+This is my first commit change. I will use this tool for my personal project called Optimax!
